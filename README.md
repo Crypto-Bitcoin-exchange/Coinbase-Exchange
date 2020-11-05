@@ -15,11 +15,11 @@ Coinbase charges 1.49% for every digital money buy and deal. This expense can go
 
 In any case, the expenses rely upon the area and the sort of moves. 
 
-For the U.S clients, stores and withdrawals through wire move take 1-3 business days, and ledger store or withdrawal takes 4-5 business days. 
+1. For the U.S clients, stores and withdrawals through wire move take 1-3 business days, and ledger store or withdrawal takes 4-5 business days. 
 
-For European clients, Deposits, and withdrawals vis SEPA move takes 1-3 business days. 
+2. For European clients, Deposits, and withdrawals vis SEPA move takes 1-3 business days. 
 
-For the United Kingdom clients, stores and withdrawal by means of GBP bank moves typically complete inside a business day though withdrawals through SEPA moves take 1-3 business days. 
+3. For the United Kingdom clients, stores and withdrawal by means of GBP bank moves typically complete inside a business day though withdrawals through SEPA moves take 1-3 business days. 
 
 <a href="https://coinpedia.org/exchange/about-coinbase-exchange/">Coinbase</A> Services :
 
